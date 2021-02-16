@@ -1,0 +1,2 @@
+C:\Users\Kwizera\source\repos\LinkedList\x64\Debug\LinkedList.exe
+C:\Users\Kwizera\source\repos\LinkedList\x64\Debug\LinkedList.pdb
